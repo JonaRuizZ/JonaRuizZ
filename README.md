@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @JonaRuizZ and i'm a Computer Engineer learning new technologies, tools and good practices in the web development environment.
 - 👀 I am interested in web development
 - 🌱 I am currently learning STACK PERN (PostgreSQL, ExpressJS, ReactJS and NodeJS)
-- 
 
 <!---
 JonaRuizZ/JonaRuizZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

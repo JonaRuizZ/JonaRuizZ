@@ -5,7 +5,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -21,11 +20,20 @@
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
-  <a href="https://postman.com" target="_blank"> 
+  <a href="NODEJS" target="_blank"> 
+    <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="" width="40" height="40"/> 
+  </a>
+    <a href="EXPRESS" target="_blank"> 
+    <img src="https://ih1.redbubble.net/image.438908244.6144/flat,128x128,075,t.u2.jpg" alt="ExpressJS" width="40" height="40"/> 
+  </a>
+    <a href="SQL" target="_blank"> 
+    <img src="http://static1.squarespace.com/static/58ded6dbcd0f68afa8558fd5/58defe1a37c5814ef81242ff/59ecb896cd39c3b259daee3e/1510746757540/database-sql.png?format=1500w" alt="SQL" width="40" height="40"/> 
+  </a>
+    <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
   <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+    <img src="https://external-preview.redd.it/8rYenz5seM2NrfYpcR7fwovXucS3Wu-VUDhrGIn9OSA.jpg?auto=webp&s=5e68d4e7671e5438db76f350384cec34d85f737a" alt="Vite" width="40" height="40"/> 
   </a> </p>
 
 <!---

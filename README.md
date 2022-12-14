@@ -36,6 +36,12 @@
   </a>
   <a href="https://vitejs.dev/" target="_blank"> 
     <img src="https://external-preview.redd.it/8rYenz5seM2NrfYpcR7fwovXucS3Wu-VUDhrGIn9OSA.jpg?auto=webp&s=5e68d4e7671e5438db76f350384cec34d85f737a" alt="Vite" width="40" height="40"/> 
+  </a> 
+  <a href="https://yarnpkg.com/" target="_blank"> 
+    <img src="https://cdn-images-1.medium.com/max/480/1*W7MSsFCQflfEPSFg35uujg.png" alt="yarn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.npmjs.com/" target="_blank"> 
+    <img src="https://codigoonclick.com/wp-content/uploads/2019/05/npm-nodejs.jpeg" alt="npm" width="40" height="40"/> 
   </a> </p>
 
 <!---

@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @JonaRuizZ and i'm a Computer Engineer learning new technologies, tools and good practices in the web development environment.
-- 👀 I am interested in web development
 - 🌱 I am currently learning PERN STACK (PostgreSQL, ExpressJS, ReactJS and NodeJS)
 
 <h3 align="left">Languages and Tools:</h3>
